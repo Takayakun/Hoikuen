@@ -69,9 +69,6 @@ NEXT_PUBLIC_VAPID_KEY=your-vapid-key
 
 ### 4. 開発サーバーの起動
 
-```bash
-npm install
-```
 
 ```bash
 npm run dev
